@@ -1,3 +1,5 @@
+*Fork from dsoares*
+
 Roundcube Webmail RemoveAttachments
 ===================================
 
